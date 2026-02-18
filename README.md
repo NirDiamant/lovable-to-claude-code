@@ -2,8 +2,6 @@
 
 Stop paying for hosting. Deploy your Lovable site to Vercel (free) in minutes.
 
-<video src="https://github.com/NirDiamant/lovable-to-claude-code/raw/main/lovable-migration.mp4" autoplay loop muted playsinline width="100%"></video>
-
 ---
 
 ## 3 Steps
