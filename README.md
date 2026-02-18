@@ -2,6 +2,24 @@
 
 Stop paying for hosting. Deploy your Lovable site to Vercel (free) in minutes.
 
+## 📫 Stay Updated!
+
+<div align="center">
+<table>
+<tr>
+<td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
+<td align="center">💡<br><b>Expert<br>Insights</b></td>
+<td align="center">🎯<br><b>Top 0.1%<br>Content</b></td>
+</tr>
+</table>
+
+[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+
+*Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!*
+</div>
+
+[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+
 ---
 
 ## 3 Steps
