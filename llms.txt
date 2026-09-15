@@ -1,0 +1,20 @@
+# Lovable to Claude Code
+
+> A step-by-step guide and automated migration script for taking a project built on Lovable, self-hosting it on Vercel for free, and continuing development in Claude Code instead of inside Lovable. Written for readers with no prior terminal experience. The README is the product; migrate.sh automates its steps. Authored by Nir Diamant. Licensed MIT.
+
+## Core Documents
+
+- [README](https://github.com/NirDiamant/lovable-to-claude-code/blob/main/README.md): The guide. Prerequisites and three steps, written for non-developers.
+- [migrate.sh](https://github.com/NirDiamant/lovable-to-claude-code/blob/main/migrate.sh): The migration script the guide runs.
+- [CLAUDE.md](https://github.com/NirDiamant/lovable-to-claude-code/blob/main/CLAUDE.md): Instructions for Claude Code once the project has been migrated.
+- [AGENTS](https://github.com/NirDiamant/lovable-to-claude-code/blob/main/AGENTS.md): Repository conventions for AI coding agents.
+- [LICENSE](https://github.com/NirDiamant/lovable-to-claude-code/blob/main/LICENSE): MIT.
+
+## Related work by the same author
+
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): 41 notebooks on Retrieval-Augmented Generation.
+- [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): 59 notebooks implementing GenAI agents.
+- [agents-towards-production](https://github.com/NirDiamant/agents-towards-production): Taking agents from prototype to deployed product.
+- [Newsletter](https://newsletter.diamant-ai.com): Weekly deep dives on GenAI engineering.
+- [Community Discord](https://discord.gg/cA6Aa4uyDX): Questions, contributions and discussion.
+- [Agentic_Engineering](https://github.com/NirDiamant/Agentic_Engineering): Structuring a project so coding agents work well in it.
