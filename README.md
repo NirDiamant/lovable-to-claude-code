@@ -120,3 +120,7 @@ This guide documents how to self-host code that you own. Please review the terms
 ## License
 
 MIT
+
+---
+
+🔗 **More from the same author:** [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) · [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) · [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) · [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering) · [Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) · [DiamantAI newsletter](https://newsletter.diamant-ai.com)
